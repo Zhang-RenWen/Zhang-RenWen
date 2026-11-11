@@ -50,9 +50,11 @@
 | 領域 | 使用過的技術 |
 | --- | --- |
 | **前端** | JavaScript、TypeScript、Vue 2/3、Nuxt、React、Vite、Tailwind CSS、Vuetify、D3.js |
-| **後端** | Node.js、Express、Java Spring Boot、Python、Swagger |
-| **資料庫** | MySQL、MongoDB |
-| **部署與協作** | Git、GitHub Actions、GitHub Pages |
+| **後端** | Java Spring Boot（RESTful API、Transaction、RBAC）/ Flyway Migration / C# ASP.NET / Keycloak / OIDC / JWT |
+| **資料庫** | PostgreSQL |
+| **測試與品質** |Vitest / Vue Test Utils / JUnit + Testcontainers（真實 PostgreSQL 整合測試）/ pytest / TypeScript 型別檢查 / ESLint / Prettier / Ruff；CI 依 app 路徑自動觸發（GLRR：Vitest 227、JUnit 228、pytest 292 個測試） |
+| **雲端與工程化** | AWS（ECS Fargate、ECR、RDS、S3、CloudFront、EventBridge）/ Docker / GitHub Actions CI/CD / Cloudflare DNS / Monorepo  |
+| **金融領域** | 保戶服務、理賠、新契約、KYC 流程實務；交易冪等、批次對帳、異動稽核等金融系統設計觀念；總經流動性 與信用風險指標|
 
 ### 其他作品
 
