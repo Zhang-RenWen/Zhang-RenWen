@@ -55,9 +55,3 @@
 | **測試與品質** |Vitest / Vue Test Utils / JUnit + Testcontainers（真實 PostgreSQL 整合測試）/ pytest / TypeScript 型別檢查 / ESLint / Prettier / Ruff；CI 依 app 路徑自動觸發（GLRR：Vitest 227、JUnit 228、pytest 292 個測試） |
 | **雲端與工程化** | AWS（ECS Fargate、ECR、RDS、S3、CloudFront、EventBridge）/ Docker / GitHub Actions CI/CD / Cloudflare DNS / Monorepo  |
 | **金融領域** | 保戶服務、理賠、新契約、KYC 流程實務；交易冪等、批次對帳、異動稽核等金融系統設計觀念；總經流動性 與信用風險指標|
-
-### 其他作品
-
-- [vite-vue3-d3](https://github.com/Zhang-RenWen/vite-vue3-d3)：Vue 3 與 D3.js 練習
-- [node-restful-swagger-typescript](https://github.com/Zhang-RenWen/node-restful-swagger-typescript)：TypeScript、Express 與 Swagger 的 RESTful API
-- [animation-maple-monster-slime](https://github.com/Zhang-RenWen/animation-maple-monster-slime)：網頁動畫小品
