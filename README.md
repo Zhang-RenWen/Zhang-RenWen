@@ -12,9 +12,10 @@
 
 ### About me｜關於我
 
-I studied business administration and moved into software engineering after graduating. I have worked as a front-end engineer since 2018, most recently on life-insurance systems (policyholder services, claims, new business and KYC). My personal projects extend that into full-stack work: data pipelines, APIs, authentication and deployment. I like turning complex information into interfaces that are clear and easy to use.
+I studied business administration and moved into software engineering after graduating. I have worked as a front-end engineer since 2018, most recently on life-insurance systems. My personal projects extend that into full-stack work: data pipelines, APIs, authentication and deployment. I like turning complex information into interfaces that are clear and easy to use.
 
-商管背景出身，畢業後轉職成為軟體工程師。2018 年起擔任前端工程師，最近幾年參與壽險系統開發（保戶服務、理賠、新契約、KYC）。個人專案則從前端延伸到全端：資料管線、API、身分驗證與部署。喜歡把複雜的資訊整理成清楚好用的介面。
+商管背景出身，畢業後轉職成為軟體工程師。2018 年起擔任前端工程師，最近幾年參與壽險系統開發。
+個人專案則從前端延伸到全端：資料管線、API、身分驗證與部署。喜歡把複雜的資訊整理成清楚好用的介面。
 
 ---
 
