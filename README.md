@@ -48,7 +48,7 @@ A full-stack system that monitors global liquidity, credit stress and Taiwan equ
 Converts Simplified to Traditional Chinese and flags Mainland Chinese terms with their Taiwan equivalents.
 
 - Character conversion uses OpenCC (opencc-js) and runs entirely in the browser, so no text is uploaded; plain HTML, CSS and JavaScript, with no framework or backend
-- An 867-term glossary in 17 categories: everyday terms are replaced (充電寶 → 行動電源), evaluative terms are flagged with a note (顏值, 內卷, 社畜), and false friends are flagged only (窩心, 愛人, 研究所)
+- 17 categories: everyday terms are replaced (充電寶 → 行動電源), evaluative terms are flagged with a note (顏值, 內卷, 社畜), and false friends are flagged only (窩心, 愛人, 研究所)
 - Every term gets a static SEO page at deploy time, with a sitemap and JSON-LD structured data
 - The glossary is open JSON; GitHub Actions validates every pull request and deploys merged changes to GitHub Pages
 
