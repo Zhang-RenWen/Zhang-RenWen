@@ -55,7 +55,7 @@ Converts Simplified to Traditional Chinese and flags Mainland Chinese terms with
 簡體轉繁體，同時把中國用語標示或轉成台灣用語。
 
 - 字形轉換使用 OpenCC（opencc-js），全部在瀏覽器內完成、不上傳文字；純 HTML、CSS、JavaScript，沒有框架或後端
-- 17 類、867 詞的詞彙庫：一般用語直接替換（充電寶 → 行動電源）、評價意涵只標示並附說明（顏值、內卷、社畜）、同字異義只標示提醒（窩心、愛人、研究所）
+- 17 類詞彙庫：一般用語直接替換（充電寶 → 行動電源）、評價意涵只標示並附說明（顏值、內卷、牛馬）、同字異義只標示提醒（窩心、愛人、研究所）
 - 部署時替每個詞產生靜態 SEO 頁，加上 sitemap 與 JSON-LD 結構化資料
 - 詞彙庫以 JSON 開放擴充，PR 由 GitHub Actions 自動檢查，合併後自動部署到 GitHub Pages
 
